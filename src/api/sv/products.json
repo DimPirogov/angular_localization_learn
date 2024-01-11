@@ -1,0 +1,36 @@
+[{
+   "id": 1,
+   "name": "Classic Apple Pie",
+   "description": "Vår berömda hemgjorda äppelpaj",
+   "image": "assets/img/pie-1.png",
+   "price": 120.95,
+   "refrigeration": false
+ }, {
+   "id": 2,
+   "name": "Classic Pumpkin Pie",
+   "description": "Vår berömda hemgjorda pumpapaj",
+   "image": "assets/img/pie-2.png",
+   "price": 120.95,
+   "refrigeration": true
+ }, {
+   "id": 3,
+   "name": "Chocolate Pecan Pie",
+   "description": "Vår berömda hemgjorda pekannötspaj täckt med choklad",
+   "image": "assets/img/pie-3.png",
+   "price": 120.95,
+   "refrigeration": true
+ }, {
+   "id": 4,
+   "name": "Original Cheesecake",
+   "description": "Vår berömda hemgjorda cheesecake",
+   "image": "assets/img/cheesecake-1.png",
+   "price": 180.95,
+   "refrigeration": true
+ }, {
+   "id": 5,
+   "name": "Caramel Popcorn Flan",
+   "description": "En klassisk flan med en vågad popcorntopping",
+   "image": "assets/img/cheesecake-5.png",
+   "price": 180.95,
+   "refrigeration": true
+ }]
